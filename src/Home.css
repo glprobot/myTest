@@ -1,0 +1,19 @@
+.home .background-image {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  button {
+    padding: 10px 21px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
